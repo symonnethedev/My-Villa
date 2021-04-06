@@ -1,0 +1,85 @@
+.casa {
+  padding: 0;
+  max-width: initial;
+  width: 100%;
+  border: none;
+  margin: 0;
+  height: 100%;
+}
+
+.content {
+  position: relative;
+  width: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.title {
+  padding: 100%;
+}
+
+.titleText {
+  color: #111;
+  font-size: 2em;
+  font-weight: 300;
+}
+
+.textBox {
+  position: relative;
+  width: 900px;
+  margin-right: 20px;
+}
+
+.casak {
+  padding: 100;
+  max-width: initial;
+  width: 100%;
+  border: none;
+  margin: 0;
+  height: 100%;
+}
+
+.cpk {
+  padding: 0;
+  max-width: initial;
+  width: 100%;
+  border: none;
+  margin: 0;
+  height: 100%;
+}
+
+.textBox2 {
+  position: relative;
+  width: 900px;
+  margin-right: 20px;
+}
+
+.feature {
+  padding-top: 100;
+}
+
+.cpl {
+  padding: 0;
+  max-width: initial;
+  width: 100%;
+  border: none;
+  margin: 0;
+  height: 100%;
+}
+
+.cpb {
+  padding: 0;
+  max-width: initial;
+  width: 100%;
+  border: none;
+  margin: 0;
+  height: 100%;
+}
+
+.si {
+  width: 100;
+  display: inline-block;
+  margin-right: 0;
+  padding: 0;
+}
